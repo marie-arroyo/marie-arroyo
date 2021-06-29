@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariewoof
+- 👋 Hi, I’m @tiramisucat
 - 🌱 I’m currently learning Python
 - 💞️ I am just using this to post my practice projects so take them with a grain of salt.
 - 📫 You can reach me at the Twitter acount @seasickcomic if you have some reason to.
