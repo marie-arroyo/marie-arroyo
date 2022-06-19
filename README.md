@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiramisucat
-- 🌱 I’m currently learning Python
-- 💞️ I am just using this to post my practice projects so take them with a grain of salt.
+- 🌱 I’m currently learning C#
+- 💞️ I am a complete noob!
 - 📫 You can reach me at the Twitter acount @seasickcomic if you have some reason to.
 
 <!---
